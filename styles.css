@@ -102,3 +102,11 @@
     text-decoration: underline;
   }
   
+  @media (max-width: 546px){
+    h2{
+      text-align: center;
+    }
+    p{
+      text-align: center;
+    }
+  }
